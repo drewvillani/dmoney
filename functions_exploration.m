@@ -2,7 +2,7 @@
 a = 241.0042;
 
 fprintf ('I am %d years old\n', a) % "%d" is a placeholder for an integer and "a" is the variable that's plugged in
-I am 241.0042 years old
+% I am 241.0042 years old
 
 
 % plot
@@ -16,5 +16,6 @@ title('cos(x)'); % title adds formatted text to our graph labeling it as 'cos(x)
 % disp
 z = 3.14; % z is the value of pi
 disp(z) % display the value of z (pi)
+% 3.14
 
 
