@@ -2,7 +2,7 @@
 a = 241.0042;
 
 fprintf ('I am %d years old\n', a) % "%d" is a placeholder for an integer and "a" is the variable that's plugged in
-I am 2.410042 years old
+I am 241.0042 years old
 
 
 % plot
